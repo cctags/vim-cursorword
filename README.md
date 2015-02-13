@@ -1,12 +1,7 @@
 # vim-cursorword
-## Underlines the word under the cursor
-![vim-cursorword](https://raw.githubusercontent.com/wiki/itchyny/vim-cursorword/image/image.gif)
 
-## Installation
-Install with your favorite plugin manager.
+[sherking@gmail.com](mailto:sherking@gmail.com)
 
-## Author
-itchyny (https://github.com/itchyny)
+This is a clone from the vim-scripts [https://github.com/vim-scripts/vim-cursorword.git](https://github.com/vim-scripts/vim-cursorword.git).
 
-## License
-This software is released under the MIT License, see LICENSE.
+This plugin will change the background color of the word under cursor, rather than underline the word.
